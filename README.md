@@ -19,5 +19,10 @@ Code, documentation, and testing materials will be added incrementally as featur
 - Xcode
 - Git / GitHub
 
+## Demo
+This repository includes a SwiftUI demo view (`ZavrDemoView`) that showcases the visual structure and user experience of the Zavr app using mock data.
+
+The demo is intended to demonstrate SwiftUI layout, component design, and UI logic without exposing production business logic or data models.
+
 ## Why This Project
 Zavr is a personal product project created to demonstrate real-world iOS development, testing, and iteration on a production-style application.
